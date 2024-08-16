@@ -1,4 +1,4 @@
-import photoOfMe from "./../../Assets/photome.jpg";
+import photoOfMe from "./../../Assets/PhotoMe.png";
 import {
   AboutBody,
   AboutContainer,
