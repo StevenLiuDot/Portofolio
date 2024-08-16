@@ -86,7 +86,7 @@ const Work = () => {
           You can check more of my work here {" "}
           <a
             style={{ color: "white", alignSelf: "center" }}
-            href="https://github.com/WilliamChao97"
+            href="https://github.com/StevenLiuDot"
           >
             Github
           </a>

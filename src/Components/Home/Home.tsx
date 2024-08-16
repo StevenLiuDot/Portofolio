@@ -30,7 +30,7 @@ const Home = () => {
   /**
    * Add every letter of the name as separate tag.
    */
-  const name: string = "William \n";
+  const name: string = "Steven \n";
   for (let i = 0; i < name.length; i += 1) {
     if (name[i] === "\n") {
       letters.push(

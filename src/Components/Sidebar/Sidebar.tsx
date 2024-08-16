@@ -10,7 +10,7 @@ const Sidebar = () => {
         {/* <SocialIcon href="mailto:martiuz77@gmail.com">
           <FiMail size={iconSize} />
         </SocialIcon> */}
-        <SocialIcon href="https://github.com/Williamchao97">
+        <SocialIcon href="https://github.com/StevenLiuDot">
           <FiGithub size={iconSize} />
         </SocialIcon>
         {/* <SocialIcon href="https://uk.linkedin.com/in/s-kalog">
